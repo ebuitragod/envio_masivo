@@ -1,0 +1,832 @@
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022418108-Eliana Julieth Calderon  Castanedaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022418108 - Eliana Julieth Calderon  Castaneda: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022418108-Eliana Julieth Calderon  Castanedaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022418108 - Eliana Julieth Calderon  Castaneda: Acuerdo de confidencialidad. CNC.docx']
+elianajcalderonc@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026576316-Lady Viviana Abril Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026576316 - Lady Viviana Abril Barbosa: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026576316-Lady Viviana Abril Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026576316 - Lady Viviana Abril Barbosa: Acuerdo de confidencialidad. CNC.docx']
+abril.vivi1@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022393019-Byron Sebastian Davila Fandinoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022393019 - Byron Sebastian Davila Fandino: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022393019-Byron Sebastian Davila Fandinoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022393019 - Byron Sebastian Davila Fandino: Acuerdo de confidencialidad. CNC.docx']
+bsdavilaf@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020806611-Sebastian  Ramirez Mososha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020806611 - Sebastian  Ramirez Mosos: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020806611-Sebastian  Ramirez Mososha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020806611 - Sebastian  Ramirez Mosos: Acuerdo de confidencialidad. CNC.docx']
+seramirezmo@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1061726949-Ana Isabel Castrillon Collazgosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1061726949 - Ana Isabel Castrillon Collazgos: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1061726949-Ana Isabel Castrillon Collazgosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1061726949 - Ana Isabel Castrillon Collazgos: Acuerdo de confidencialidad. CNC.docx']
+anicastrillonco@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014262908-Tatiana  Alexandra Vargas Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014262908 - Tatiana  Alexandra Vargas Jimenez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014262908-Tatiana  Alexandra Vargas Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014262908 - Tatiana  Alexandra Vargas Jimenez: Acuerdo de confidencialidad. CNC.docx']
+tavargasj@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1030674649-Jackelinne Daniela Cuervo Avilaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1030674649 - Jackelinne Daniela Cuervo Avila: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1030674649-Jackelinne Daniela Cuervo Avilaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1030674649 - Jackelinne Daniela Cuervo Avila: Acuerdo de confidencialidad. CNC.docx']
+daniel.cuervo97@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1069721997-Luisa Fernanda Rios Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1069721997 - Luisa Fernanda Rios Barbosa: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1069721997-Luisa Fernanda Rios Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1069721997 - Luisa Fernanda Rios Barbosa: Acuerdo de confidencialidad. CNC.docx']
+lfrios23@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1023867666-Jennifer Alexandra Moncada Martinezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1023867666 - Jennifer Alexandra Moncada Martinez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1023867666-Jennifer Alexandra Moncada Martinezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1023867666 - Jennifer Alexandra Moncada Martinez: Acuerdo de confidencialidad. CNC.docx']
+nennyjr11@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1070961476-Lizeth Andrea Chimbi Sanchezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1070961476 - Lizeth Andrea Chimbi Sanchez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1070961476-Lizeth Andrea Chimbi Sanchezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1070961476 - Lizeth Andrea Chimbi Sanchez: Acuerdo de confidencialidad. CNC.docx']
+andreachimbisanchez@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026267086-Johan Sanchez Patiñoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026267086 - Johan Sanchez Patiño: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026267086-Johan Sanchez Patiñoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026267086 - Johan Sanchez Patiño: Acuerdo de confidencialidad. CNC.docx']
+josanchezpa@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020795755-Maria Paula Saavedra Avilesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020795755 - Maria Paula Saavedra Aviles: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020795755-Maria Paula Saavedra Avilesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020795755 - Maria Paula Saavedra Aviles: Acuerdo de confidencialidad. CNC.docx']
+mpsaavedraa@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1015411651-Nury Angelica Veloza Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1015411651 - Nury Angelica Veloza Perez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1015411651-Nury Angelica Veloza Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1015411651 - Nury Angelica Veloza Perez: Acuerdo de confidencialidad. CNC.docx']
+velozangie45@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026557532-Katherine Andrea Casanova Cubillosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026557532 - Katherine Andrea Casanova Cubillos: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026557532-Katherine Andrea Casanova Cubillosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026557532 - Katherine Andrea Casanova Cubillos: Acuerdo de confidencialidad. CNC.docx']
+casacubillos@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1016026418-Wendy Johana Vaca Rojasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1016026418 - Wendy Johana Vaca Rojas: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1016026418-Wendy Johana Vaca Rojasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1016026418 - Wendy Johana Vaca Rojas: Acuerdo de confidencialidad. CNC.docx']
+flymaripos@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020768301-Brian Alberto Numpaque Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020768301 - Brian Alberto Numpaque Perez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020768301-Brian Alberto Numpaque Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020768301 - Brian Alberto Numpaque Perez: Acuerdo de confidencialidad. CNC.docx']
+banumpaquep@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1033759041-Diana Alejandra Diaz Guzmanha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1033759041 - Diana Alejandra Diaz Guzman: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1033759041-Diana Alejandra Diaz Guzmanha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1033759041 - Diana Alejandra Diaz Guzman: Acuerdo de confidencialidad. CNC.docx']
+ddiaz.sisifo@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1015408388-John Fredy Sanchez Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1015408388 - John Fredy Sanchez Gonzalez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1015408388-John Fredy Sanchez Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1015408388 - John Fredy Sanchez Gonzalez: Acuerdo de confidencialidad. CNC.docx']
+jofsanchezgo@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1121043073-Anny Rocio Palencia Salcedoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1121043073 - Anny Rocio Palencia Salcedo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1121043073-Anny Rocio Palencia Salcedoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1121043073 - Anny Rocio Palencia Salcedo: Acuerdo de confidencialidad. CNC.docx']
+apalenciasalcedo@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014215295-Laura Camila Rivera Romeroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014215295 - Laura Camila Rivera Romero: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014215295-Laura Camila Rivera Romeroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014215295 - Laura Camila Rivera Romero: Acuerdo de confidencialidad. CNC.docx']
+kmilariverar@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1052399603-Maicol David Bonilla Malaverha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1052399603 - Maicol David Bonilla Malaver: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1052399603-Maicol David Bonilla Malaverha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1052399603 - Maicol David Bonilla Malaver: Acuerdo de confidencialidad. CNC.docx']
+mdbonillam@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1031143402-Erika Yurany Barragan Peñaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1031143402 - Erika Yurany Barragan Peña: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1031143402-Erika Yurany Barragan Peñaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1031143402 - Erika Yurany Barragan Peña: Acuerdo de confidencialidad. CNC.docx']
+rockerika.155@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1072705082-Robinson Stive Quevedo Garavitoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1072705082 - Robinson Stive Quevedo Garavito: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1072705082-Robinson Stive Quevedo Garavitoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1072705082 - Robinson Stive Quevedo Garavito: Acuerdo de confidencialidad. CNC.docx']
+rquevedogar@uniminuto.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032440458-Lizeth Juliana Wilches Riveraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032440458 - Lizeth Juliana Wilches Rivera: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032440458-Lizeth Juliana Wilches Riveraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032440458 - Lizeth Juliana Wilches Rivera: Acuerdo de confidencialidad. CNC.docx']
+ljulianawilchesrivera@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020772391-Maria Alejandra Mattos Pardoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020772391 - Maria Alejandra Mattos Pardo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020772391-Maria Alejandra Mattos Pardoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020772391 - Maria Alejandra Mattos Pardo: Acuerdo de confidencialidad. CNC.docx']
+alejandramattos03@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 52123798-Dorys Ardila Reyesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/52123798 - Dorys Ardila Reyes: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 52123798-Dorys Ardila Reyesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/52123798 - Dorys Ardila Reyes: Acuerdo de confidencialidad. CNC.docx']
+padokana@yahoo.es
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1018418998-Jonnathan Macchi Francoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1018418998 - Jonnathan Macchi Franco: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1018418998-Jonnathan Macchi Francoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1018418998 - Jonnathan Macchi Franco: Acuerdo de confidencialidad. CNC.docx']
+jmacchif@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1090517734-Leidy Tatiana Ortiz Cruzha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1090517734 - Leidy Tatiana Ortiz Cruz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1090517734-Leidy Tatiana Ortiz Cruzha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1090517734 - Leidy Tatiana Ortiz Cruz: Acuerdo de confidencialidad. CNC.docx']
+tatianaoc6@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019085095-Juan Sebastian Uscategui Castrillonha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019085095 - Juan Sebastian Uscategui Castrillon: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019085095-Juan Sebastian Uscategui Castrillonha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019085095 - Juan Sebastian Uscategui Castrillon: Acuerdo de confidencialidad. CNC.docx']
+jsuscateguic@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020820136-Laura Sofia Velandia Moralesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020820136 - Laura Sofia Velandia Morales: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020820136-Laura Sofia Velandia Moralesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020820136 - Laura Sofia Velandia Morales: Acuerdo de confidencialidad. CNC.docx']
+lsofiavelandia@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1012416250-Jhon Dayron Martin Bautistaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1012416250 - Jhon Dayron Martin Bautista: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1012416250-Jhon Dayron Martin Bautistaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1012416250 - Jhon Dayron Martin Bautista: Acuerdo de confidencialidad. CNC.docx']
+jdmartinb@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1013608386-Ivonne Vanessa Fajardo Rojasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1013608386 - Ivonne Vanessa Fajardo Rojas: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1013608386-Ivonne Vanessa Fajardo Rojasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1013608386 - Ivonne Vanessa Fajardo Rojas: Acuerdo de confidencialidad. CNC.docx']
+ivfajardor@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020750083-Nicolas Enmanuelle Porras Borjaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020750083 - Nicolas Enmanuelle Porras Borja: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020750083-Nicolas Enmanuelle Porras Borjaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020750083 - Nicolas Enmanuelle Porras Borja: Acuerdo de confidencialidad. CNC.docx']
+nikoporras@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1015438426-Leonardo Moreno Naranjoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1015438426 - Leonardo Moreno Naranjo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1015438426-Leonardo Moreno Naranjoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1015438426 - Leonardo Moreno Naranjo: Acuerdo de confidencialidad. CNC.docx']
+lmorenon@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014217259-Daniel Alberto Aldana Bejaranoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014217259 - Daniel Alberto Aldana Bejarano: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014217259-Daniel Alberto Aldana Bejaranoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014217259 - Daniel Alberto Aldana Bejarano: Acuerdo de confidencialidad. CNC.docx']
+daniel.aldanabe@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026263018-Johann Shocker Restrepo Rubioha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026263018 - Johann Shocker Restrepo Rubio: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026263018-Johann Shocker Restrepo Rubioha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026263018 - Johann Shocker Restrepo Rubio: Acuerdo de confidencialidad. CNC.docx']
+jsrestrepor@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1012372988-Jhonatan Perez Bedoyaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1012372988 - Jhonatan Perez Bedoya: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1012372988-Jhonatan Perez Bedoyaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1012372988 - Jhonatan Perez Bedoya: Acuerdo de confidencialidad. CNC.docx']
+kpachoe1@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1018475036-Paula Lorena Mogollon Buitragoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1018475036 - Paula Lorena Mogollon Buitrago: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1018475036-Paula Lorena Mogollon Buitragoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1018475036 - Paula Lorena Mogollon Buitrago: Acuerdo de confidencialidad. CNC.docx']
+plmogollonb@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1015436848-Juan Camilo Lozano Lozanoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1015436848 - Juan Camilo Lozano Lozano: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1015436848-Juan Camilo Lozano Lozanoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1015436848 - Juan Camilo Lozano Lozano: Acuerdo de confidencialidad. CNC.docx']
+juclozanolo@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020793378-Pedro Jefferson Cabrera Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020793378 - Pedro Jefferson Cabrera Rodriguez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020793378-Pedro Jefferson Cabrera Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020793378 - Pedro Jefferson Cabrera Rodriguez: Acuerdo de confidencialidad. CNC.docx']
+jefercabrera@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1023959573-Laura Andrea Pardo Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1023959573 - Laura Andrea Pardo Barbosa: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1023959573-Laura Andrea Pardo Barbosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1023959573 - Laura Andrea Pardo Barbosa: Acuerdo de confidencialidad. CNC.docx']
+laura.pardo.barbosa@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014280415-Esneyder Yesid Castro Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014280415 - Esneyder Yesid Castro Ruiz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014280415-Esneyder Yesid Castro Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014280415 - Esneyder Yesid Castro Ruiz: Acuerdo de confidencialidad. CNC.docx']
+esneidercastro90@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022994455-Darwin Michael Numpaque Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022994455 - Darwin Michael Numpaque Perez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022994455-Darwin Michael Numpaque Perezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022994455 - Darwin Michael Numpaque Perez: Acuerdo de confidencialidad. CNC.docx']
+darkwinp@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1033688051-Michael Alexander Sanabria Suarezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1033688051 - Michael Alexander Sanabria Suarez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1033688051-Michael Alexander Sanabria Suarezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1033688051 - Michael Alexander Sanabria Suarez: Acuerdo de confidencialidad. CNC.docx']
+alexdenker7@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022387867-Lady Carolina Lozano Quinterpha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022387867 - Lady Carolina Lozano Quinterp: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022387867-Lady Carolina Lozano Quinterpha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022387867 - Lady Carolina Lozano Quinterp: Acuerdo de confidencialidad. CNC.docx']
+karito3870@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022381684-Laura Viviana Ruiz Triviñoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022381684 - Laura Viviana Ruiz Triviño: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022381684-Laura Viviana Ruiz Triviñoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022381684 - Laura Viviana Ruiz Triviño: Acuerdo de confidencialidad. CNC.docx']
+lvruizt@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032396650-Martha Isabel Rodriguez Figueredoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032396650 - Martha Isabel Rodriguez Figueredo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032396650-Martha Isabel Rodriguez Figueredoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032396650 - Martha Isabel Rodriguez Figueredo: Acuerdo de confidencialidad. CNC.docx']
+mirodriguezf@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1010193309-Martha Alexandra Becerra Andradeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1010193309 - Martha Alexandra Becerra Andrade: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1010193309-Martha Alexandra Becerra Andradeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1010193309 - Martha Alexandra Becerra Andrade: Acuerdo de confidencialidad. CNC.docx']
+mabecerraa@outlook.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019031529-Diego Alexander Quiros Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019031529 - Diego Alexander Quiros Jimenez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019031529-Diego Alexander Quiros Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019031529 - Diego Alexander Quiros Jimenez: Acuerdo de confidencialidad. CNC.docx']
+daquirosj@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1090508248-Heidy Torresha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1090508248 - Heidy Torres: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1090508248-Heidy Torresha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1090508248 - Heidy Torres: Acuerdo de confidencialidad. CNC.docx']
+heidyjtb@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1012386890-Angie Paola Vargas Arevaloha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1012386890 - Angie Paola Vargas Arevalo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1012386890-Angie Paola Vargas Arevaloha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1012386890 - Angie Paola Vargas Arevalo: Acuerdo de confidencialidad. CNC.docx']
+angiepvargas01@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026272258-Dayana Jisseth Molina Cruzha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026272258 - Dayana Jisseth Molina Cruz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026272258-Dayana Jisseth Molina Cruzha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026272258 - Dayana Jisseth Molina Cruz: Acuerdo de confidencialidad. CNC.docx']
+dhyana.molinac@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 80845060-Jairo Andres Guluma Cadenaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/80845060 - Jairo Andres Guluma Cadena: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 80845060-Jairo Andres Guluma Cadenaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/80845060 - Jairo Andres Guluma Cadena: Acuerdo de confidencialidad. CNC.docx']
+andrescadena86@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022964263-Sindy Liliana Gonzalez Riañoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022964263 - Sindy Liliana Gonzalez Riaño: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022964263-Sindy Liliana Gonzalez Riañoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022964263 - Sindy Liliana Gonzalez Riaño: Acuerdo de confidencialidad. CNC.docx']
+singonzalez111@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1018503099-Valentina Galeano Collazosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1018503099 - Valentina Galeano Collazos: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1018503099-Valentina Galeano Collazosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1018503099 - Valentina Galeano Collazos: Acuerdo de confidencialidad. CNC.docx']
+vale98galeano@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1070014903-Mateo David Ortiz Montesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1070014903 - Mateo David Ortiz Montes: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1070014903-Mateo David Ortiz Montesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1070014903 - Mateo David Ortiz Montes: Acuerdo de confidencialidad. CNC.docx']
+mateo.ortmon@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1024540218-Laura Alejandra Agudelo Mancipeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1024540218 - Laura Alejandra Agudelo Mancipe: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1024540218-Laura Alejandra Agudelo Mancipeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1024540218 - Laura Alejandra Agudelo Mancipe: Acuerdo de confidencialidad. CNC.docx']
+lauraagudelocol@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 52816259-Rocio del Pilar Gomez Ramirezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/52816259 - Rocio del Pilar Gomez Ramirez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 52816259-Rocio del Pilar Gomez Ramirezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/52816259 - Rocio del Pilar Gomez Ramirez: Acuerdo de confidencialidad. CNC.docx']
+ropigora@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022382873-Cristian Camilo Bautista Espitiaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022382873 - Cristian Camilo Bautista Espitia: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022382873-Cristian Camilo Bautista Espitiaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022382873 - Cristian Camilo Bautista Espitia: Acuerdo de confidencialidad. CNC.docx']
+bautista.cristian@javeriana.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032451544-Laura Sofia Ochoa Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032451544 - Laura Sofia Ochoa Jimenez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032451544-Laura Sofia Ochoa Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032451544 - Laura Sofia Ochoa Jimenez: Acuerdo de confidencialidad. CNC.docx']
+lsochoaj@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1052407166-Maria Paula Diaz Sanabriaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1052407166 - Maria Paula Diaz Sanabria: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1052407166-Maria Paula Diaz Sanabriaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1052407166 - Maria Paula Diaz Sanabria: Acuerdo de confidencialidad. CNC.docx']
+mariapdiazs96@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1116546535-Alba Lucia Perez Benavidesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1116546535 - Alba Lucia Perez Benavides: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1116546535-Alba Lucia Perez Benavidesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1116546535 - Alba Lucia Perez Benavides: Acuerdo de confidencialidad. CNC.docx']
+alperezbe@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1010243466-Daniela Rocio Velandia Chavarryha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1010243466 - Daniela Rocio Velandia Chavarry: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1010243466-Daniela Rocio Velandia Chavarryha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1010243466 - Daniela Rocio Velandia Chavarry: Acuerdo de confidencialidad. CNC.docx']
+danny.velandia99@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1072702578-Daniel Josue Acero Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1072702578 - Daniel Josue Acero Rodriguez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1072702578-Daniel Josue Acero Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1072702578 - Daniel Josue Acero Rodriguez: Acuerdo de confidencialidad. CNC.docx']
+djaceror@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1033778879-Danica Paola Molinaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1033778879 - Danica Paola Molina: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1033778879-Danica Paola Molinaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1033778879 - Danica Paola Molina: Acuerdo de confidencialidad. CNC.docx']
+dani_0632@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 80821769-Willian Bekenbawer Castiblanco Cuchumbeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/80821769 - Willian Bekenbawer Castiblanco Cuchumbe: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 80821769-Willian Bekenbawer Castiblanco Cuchumbeha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/80821769 - Willian Bekenbawer Castiblanco Cuchumbe: Acuerdo de confidencialidad. CNC.docx']
+wbcastiblancoc@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1070966779-Cristian David Gomez Moraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1070966779 - Cristian David Gomez Mora: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1070966779-Cristian David Gomez Moraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1070966779 - Cristian David Gomez Mora: Acuerdo de confidencialidad. CNC.docx']
+gomez.moracristian@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026275673-Jeymi Jislad Benavides Morenoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026275673 - Jeymi Jislad Benavides Moreno: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026275673-Jeymi Jislad Benavides Morenoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026275673 - Jeymi Jislad Benavides Moreno: Acuerdo de confidencialidad. CNC.docx']
+jeymi.benavides2@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022353265-Juan Camilo Colorado Duqueha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022353265 - Juan Camilo Colorado Duque: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022353265-Juan Camilo Colorado Duqueha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022353265 - Juan Camilo Colorado Duque: Acuerdo de confidencialidad. CNC.docx']
+gmijuancolorado@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032456905-Sebastian Eduardo Lopez Ramosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032456905 - Sebastian Eduardo Lopez Ramos: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032456905-Sebastian Eduardo Lopez Ramosha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032456905 - Sebastian Eduardo Lopez Ramos: Acuerdo de confidencialidad. CNC.docx']
+slopezra6905@universidadean.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014211855-RogerAlonso Leon Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014211855 - RogerAlonso Leon Gonzalez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014211855-RogerAlonso Leon Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014211855 - RogerAlonso Leon Gonzalez: Acuerdo de confidencialidad. CNC.docx']
+ing-rleon@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1094946251-Paula Andrea Santiago Zambranoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1094946251 - Paula Andrea Santiago Zambrano: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1094946251-Paula Andrea Santiago Zambranoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1094946251 - Paula Andrea Santiago Zambrano: Acuerdo de confidencialidad. CNC.docx']
+psantiago4624@cue.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022389901-Nicolas Murillo Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022389901 - Nicolas Murillo Rodriguez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022389901-Nicolas Murillo Rodriguezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022389901 - Nicolas Murillo Rodriguez: Acuerdo de confidencialidad. CNC.docx']
+nmurillor@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019037360-Deissy Aguilar Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019037360 - Deissy Aguilar Ruiz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019037360-Deissy Aguilar Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019037360 - Deissy Aguilar Ruiz: Acuerdo de confidencialidad. CNC.docx']
+deissy.aguilar89@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022418591-Karem Dayhana Martinez Chaparroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022418591 - Karem Dayhana Martinez Chaparro: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022418591-Karem Dayhana Martinez Chaparroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022418591 - Karem Dayhana Martinez Chaparro: Acuerdo de confidencialidad. CNC.docx']
+kadmartinezch@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 52376861-Adriana Janeth Nobles Roldanha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/52376861 - Adriana Janeth Nobles Roldan: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 52376861-Adriana Janeth Nobles Roldanha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/52376861 - Adriana Janeth Nobles Roldan: Acuerdo de confidencialidad. CNC.docx']
+ajnoblesr@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032486610-Angie Gabriela Belloha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032486610 - Angie Gabriela Bello: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032486610-Angie Gabriela Belloha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032486610 - Angie Gabriela Bello: Acuerdo de confidencialidad. CNC.docx']
+angiegabrielab@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1024496167-Andres Eduardo Escobar Leonha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1024496167 - Andres Eduardo Escobar Leon: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1024496167-Andres Eduardo Escobar Leonha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1024496167 - Andres Eduardo Escobar Leon: Acuerdo de confidencialidad. CNC.docx']
+aeescobarl@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1033782349-Andrea Castaño Casasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1033782349 - Andrea Castaño Casas: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1033782349-Andrea Castaño Casasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1033782349 - Andrea Castaño Casas: Acuerdo de confidencialidad. CNC.docx']
+acastanoc@correo.udistrital.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 63553323-Jenny Adriana Rey Hernandezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/63553323 - Jenny Adriana Rey Hernandez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 63553323-Jenny Adriana Rey Hernandezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/63553323 - Jenny Adriana Rey Hernandez: Acuerdo de confidencialidad. CNC.docx']
+jareyh@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1143830715-jeffry mauricio bolaños villotaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1143830715 - jeffry mauricio bolaños villota: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1143830715-jeffry mauricio bolaños villotaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1143830715 - jeffry mauricio bolaños villota: Acuerdo de confidencialidad. CNC.docx']
+jeffrymauricio@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1015417453-Angelo Rene Pascuas Duranha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1015417453 - Angelo Rene Pascuas Duran: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1015417453-Angelo Rene Pascuas Duranha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1015417453 - Angelo Rene Pascuas Duran: Acuerdo de confidencialidad. CNC.docx']
+angorpd@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014204900-Claudia Ximena Bonilla Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014204900 - Claudia Ximena Bonilla Ruiz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014204900-Claudia Ximena Bonilla Ruizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014204900 - Claudia Ximena Bonilla Ruiz: Acuerdo de confidencialidad. CNC.docx']
+ximenabonilla23@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1051240654-Luisa Fernanda Castellanos Rosalesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1051240654 - Luisa Fernanda Castellanos Rosales: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1051240654-Luisa Fernanda Castellanos Rosalesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1051240654 - Luisa Fernanda Castellanos Rosales: Acuerdo de confidencialidad. CNC.docx']
+luisafercr12@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1018475145-Laura Fernanda Florez Velandiaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1018475145 - Laura Fernanda Florez Velandia: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1018475145-Laura Fernanda Florez Velandiaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1018475145 - Laura Fernanda Florez Velandia: Acuerdo de confidencialidad. CNC.docx']
+lafflorezve@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1098741725-Juan Sebastian Lizarazo Guerreroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1098741725 - Juan Sebastian Lizarazo Guerrero: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1098741725-Juan Sebastian Lizarazo Guerreroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1098741725 - Juan Sebastian Lizarazo Guerrero: Acuerdo de confidencialidad. CNC.docx']
+juanseli4@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019086207-Yenny Rocio Gomez Vergaraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019086207 - Yenny Rocio Gomez Vergara: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019086207-Yenny Rocio Gomez Vergaraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019086207 - Yenny Rocio Gomez Vergara: Acuerdo de confidencialidad. CNC.docx']
+yrgomezv@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020779091-Daniel Eduardo Carreño Saavedraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020779091 - Daniel Eduardo Carreño Saavedra: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020779091-Daniel Eduardo Carreño Saavedraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020779091 - Daniel Eduardo Carreño Saavedra: Acuerdo de confidencialidad. CNC.docx']
+danicarre9303@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 37399492-Ana Ruth Gelvezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/37399492 - Ana Ruth Gelvez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 37399492-Ana Ruth Gelvezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/37399492 - Ana Ruth Gelvez: Acuerdo de confidencialidad. CNC.docx']
+psicologarg.saludmental@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1026293923-Nancy Camila Sarmiento Espinosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1026293923 - Nancy Camila Sarmiento Espinosa: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1026293923-Nancy Camila Sarmiento Espinosaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1026293923 - Nancy Camila Sarmiento Espinosa: Acuerdo de confidencialidad. CNC.docx']
+nacasares@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032400154-Ignacio Gonima Olayaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032400154 - Ignacio Gonima Olaya: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032400154-Ignacio Gonima Olayaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032400154 - Ignacio Gonima Olaya: Acuerdo de confidencialidad. CNC.docx']
+atilagrande@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1016067098-Laura Carolina Castañeda Suaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1016067098 - Laura Carolina Castañeda Sua: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1016067098-Laura Carolina Castañeda Suaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1016067098 - Laura Carolina Castañeda Sua: Acuerdo de confidencialidad. CNC.docx']
+lccastanedas@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1214715737-Mauricio Lopez Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1214715737 - Mauricio Lopez Jimenez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1214715737-Mauricio Lopez Jimenezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1214715737 - Mauricio Lopez Jimenez: Acuerdo de confidencialidad. CNC.docx']
+malopjim@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1073512864-Cristian Camilo Garzon Moralesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1073512864 - Cristian Camilo Garzon Morales: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1073512864-Cristian Camilo Garzon Moralesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1073512864 - Cristian Camilo Garzon Morales: Acuerdo de confidencialidad. CNC.docx']
+garz.camilo@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 52192380-Elsa Constanza Ojeda Gutierrezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/52192380 - Elsa Constanza Ojeda Gutierrez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 52192380-Elsa Constanza Ojeda Gutierrezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/52192380 - Elsa Constanza Ojeda Gutierrez: Acuerdo de confidencialidad. CNC.docx']
+ecojedag@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1014193316-Saira Julie Alvarez Quincheha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1014193316 - Saira Julie Alvarez Quinche: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1014193316-Saira Julie Alvarez Quincheha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1014193316 - Saira Julie Alvarez Quinche: Acuerdo de confidencialidad. CNC.docx']
+sairajalvarez@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 52833605-Sandra Leonilde Ramirez Muñozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/52833605 - Sandra Leonilde Ramirez Muñoz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 52833605-Sandra Leonilde Ramirez Muñozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/52833605 - Sandra Leonilde Ramirez Muñoz: Acuerdo de confidencialidad. CNC.docx']
+sandritarm777@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1030599965-Nadia Caballero Quirozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1030599965 - Nadia Caballero Quiroz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1030599965-Nadia Caballero Quirozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1030599965 - Nadia Caballero Quiroz: Acuerdo de confidencialidad. CNC.docx']
+ncq1092@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032472000-Andrea Caballero Quirozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032472000 - Andrea Caballero Quiroz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032472000-Andrea Caballero Quirozha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032472000 - Andrea Caballero Quiroz: Acuerdo de confidencialidad. CNC.docx']
+andreacaballeroquiroz@hotmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019110968-David Julian Chamorro Cardenasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019110968 - David Julian Chamorro Cardenas: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019110968-David Julian Chamorro Cardenasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019110968 - David Julian Chamorro Cardenas: Acuerdo de confidencialidad. CNC.docx']
+julianchm88@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1025141410-Jesus Antonio Velandia Bayonaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1025141410 - Jesus Antonio Velandia Bayona: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1025141410-Jesus Antonio Velandia Bayonaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1025141410 - Jesus Antonio Velandia Bayona: Acuerdo de confidencialidad. CNC.docx']
+Ja.velandiaba@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1053849743-Laura Ximena Herrera Pinedaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1053849743 - Laura Ximena Herrera Pineda: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1053849743-Laura Ximena Herrera Pinedaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1053849743 - Laura Ximena Herrera Pineda: Acuerdo de confidencialidad. CNC.docx']
+lxherrerap@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 13722278-Carlos Enrique Roa Diazha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/13722278 - Carlos Enrique Roa Diaz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 13722278-Carlos Enrique Roa Diazha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/13722278 - Carlos Enrique Roa Diaz: Acuerdo de confidencialidad. CNC.docx']
+ceroad@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1051241125-Maria Paula Castellanos Rosalesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1051241125 - Maria Paula Castellanos Rosales: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1051241125-Maria Paula Castellanos Rosalesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1051241125 - Maria Paula Castellanos Rosales: Acuerdo de confidencialidad. CNC.docx']
+papuscr@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020799228-Simon Mateo Ramirez Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020799228 - Simon Mateo Ramirez Gonzalez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020799228-Simon Mateo Ramirez Gonzalezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020799228 - Simon Mateo Ramirez Gonzalez: Acuerdo de confidencialidad. CNC.docx']
+simonmateoramirezgonzalez@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019050310-Pablo Andres Ledesma Castroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019050310 - Pablo Andres Ledesma Castro: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019050310-Pablo Andres Ledesma Castroha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019050310 - Pablo Andres Ledesma Castro: Acuerdo de confidencialidad. CNC.docx']
+paledesmac@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1073238291-Gustavo Adolfo Farias Ortizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1073238291 - Gustavo Adolfo Farias Ortiz: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1073238291-Gustavo Adolfo Farias Ortizha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1073238291 - Gustavo Adolfo Farias Ortiz: Acuerdo de confidencialidad. CNC.docx']
+gafariaso@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 53014578-Diana Yaneth Alvares Vargasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/53014578 - Diana Yaneth Alvares Vargas: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 53014578-Diana Yaneth Alvares Vargasha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/53014578 - Diana Yaneth Alvares Vargas: Acuerdo de confidencialidad. CNC.docx']
+dianabeula@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1012426384-Natalia Laiton Cortesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1012426384 - Natalia Laiton Cortes: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1012426384-Natalia Laiton Cortesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1012426384 - Natalia Laiton Cortes: Acuerdo de confidencialidad. CNC.docx']
+natalialaitoncortes@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020821574-KAREM LORENA SANCHEZ GONZALEZha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020821574 - KAREM LORENA SANCHEZ GONZALEZ: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020821574-KAREM LORENA SANCHEZ GONZALEZha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020821574 - KAREM LORENA SANCHEZ GONZALEZ: Acuerdo de confidencialidad. CNC.docx']
+loresanchezgo93@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1013618617-Dani Esmeralda Montenegro Puentesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1013618617 - Dani Esmeralda Montenegro Puentes: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1013618617-Dani Esmeralda Montenegro Puentesha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1013618617 - Dani Esmeralda Montenegro Puentes: Acuerdo de confidencialidad. CNC.docx']
+Danmontenegro@uan.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1019078586-Yeimi Xiomara Perez Galindoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1019078586 - Yeimi Xiomara Perez Galindo: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1019078586-Yeimi Xiomara Perez Galindoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1019078586 - Yeimi Xiomara Perez Galindo: Acuerdo de confidencialidad. CNC.docx']
+xiomaraperez094@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1061690544-Alix Lorena Gallego Torresha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1061690544 - Alix Lorena Gallego Torres: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1061690544-Alix Lorena Gallego Torresha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1061690544 - Alix Lorena Gallego Torres: Acuerdo de confidencialidad. CNC.docx']
+alis.lorena@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1057577467-Monica Paola Vega Suarezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1057577467 - Monica Paola Vega Suarez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1057577467-Monica Paola Vega Suarezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1057577467 - Monica Paola Vega Suarez: Acuerdo de confidencialidad. CNC.docx']
+kontishi21@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1030553300-Leidy Carolina Rodriguez Barreraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1030553300 - Leidy Carolina Rodriguez Barrera: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1030553300-Leidy Carolina Rodriguez Barreraha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1030553300 - Leidy Carolina Rodriguez Barrera: Acuerdo de confidencialidad. CNC.docx']
+carolinarodriguez0126@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1033713952-Dario Buitrago Ladinoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1033713952 - Dario Buitrago Ladino: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1033713952-Dario Buitrago Ladinoha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1033713952 - Dario Buitrago Ladino: Acuerdo de confidencialidad. CNC.docx']
+dariobuitrago20@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1032458105-Rocio Andrea Baron Sisaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1032458105 - Rocio Andrea Baron Sisa: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1032458105-Rocio Andrea Baron Sisaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1032458105 - Rocio Andrea Baron Sisa: Acuerdo de confidencialidad. CNC.docx']
+rabarons@unal.edu.co
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1022364224-Diana Lucia Torres Arizaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1022364224 - Diana Lucia Torres Ariza: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1022364224-Diana Lucia Torres Arizaha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1022364224 - Diana Lucia Torres Ariza: Acuerdo de confidencialidad. CNC.docx']
+d.luciatorres9@gmail.com
+Fields included in 01_codificadores/01_CC6193-01 Minuta codificador(a) Icfes VF 231120.docx: {'CEDULA', 'NOMBRE_COMPLETO', 'VIGENCIA', 'DURACIÓN', 'firma'}
+El documento .docx de 1020739682-Diana Marcela Nuñez Florezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/01_contratos/1020739682 - Diana Marcela Nuñez Florez: Contrato como codificador. CNC.docx']
+Fields included in 01_codificadores/01_ACUERDO DE CONFIDENCIALIDAD VF.docx: {'CEDULA', 'NOMBRE_COMPLETO'}
+El documento .docx de 1020739682-Diana Marcela Nuñez Florezha sido creado exitosamente.
+['/usr/bin/soffice', '--convert-to', 'pdf', '01_codificadores/02_acuerdos_confidencialidad/1020739682 - Diana Marcela Nuñez Florez: Acuerdo de confidencialidad. CNC.docx']
